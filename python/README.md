@@ -1,4 +1,7 @@
-*Welcome to My App*[Link](https://www.github.com/thoma4kw/it3038c-scripts/tree/main)
+README.md
+lab 7
 
-My app is so great, sometimes it works! Just download the script, add some execute permissions and run it.
-The results should show you a list of all of the cat pictures on your machine.
+Open an image file called "example.jpg" and display it.
+Apply a blur filter to the image and display the blurred version.
+Add text to the original image and display it.
+Save the modified image with added text as "modified_image.jpg."
