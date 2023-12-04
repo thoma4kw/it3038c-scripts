@@ -24,7 +24,7 @@ if __name__ == "__main__":
         isinstance(total_space, int)
         and isinstance(used_space, int)
         and isinstance(free_space, int)
-        and isinstance(usage_percent, int)
+        and isinstance(usage_percent, float)
     ):
         total_space_gb = round(total_space / (1024 ** 3), 2)
         used_space_gb = round(used_space / (1024 ** 3), 2)
